@@ -12,6 +12,9 @@ db.sqlite3
 local_settings.py
 
 # Virtual environments
+.venv/
+.envrc
+.set_env.sh
 venv/
 env/
 .env/
